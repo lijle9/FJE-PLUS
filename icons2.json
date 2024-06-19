@@ -1,0 +1,16 @@
+{
+    "branch_icon": "├─♢ ",
+    "last_branch_icon": "└─♢ ",
+    "leaf_icon": "├─♤ ",
+    "indent": "  ",
+    "top_left_corner": "┌♢ ",
+    "bottom_left_corner": "└─",
+    "bottom_right_corner": "─┘",
+    "horizontal_line": "─",
+    "vertical_line": "│",
+    "leaf_prefix": "└─♤ ",
+    "last_leaf_prefix": "└─♤ ",
+    "left_branch_icon": "─┤",
+    "top_right_corner": "┐",
+    "last_right_branch_icon": "─┤"
+}
